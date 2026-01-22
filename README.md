@@ -87,7 +87,7 @@ const eliza = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dlwlrmwa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=C9D1D9"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dlwlrmwa&theme=dark&hide_border=true&background=0d1117&stroke=ff69b4&ring=ff1493&fire=f59e0b&currStreakLabel=c9d1d9&sideNums=c9d1d9&currStreakNum=c9d1d9&sideLabels=c9d1d9&dates=9ca3af&border_radius=8" height="180"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dlwlrmwa&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF69B4&text_color=C9D1D9"/>
 </div>
 
