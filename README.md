@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Eliza%20Marie%20Abing&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- Animated Header - Pink Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:ff69b4,100:ff1493&height=180&section=header&text=Eliza%20Marie%20Abing&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Animated Typing Text -->
 <a href="https://git.io/typing-svg">
@@ -22,12 +22,9 @@
 ```javascript
 const eliza = {
     name: "Eliza Marie Abing",
-    title: "Full-Stack Developer & Creative Problem Solver",
     location: "📍 Davao City, Philippines",
-    education: "🎓 BS Information Technology @ Holy Cross of Davao College",
-    currentRole: "Student Assistant @ HCDC College of Engineering",
-    experience: "Former Customer Service Representative",
-    
+    education: "🎓 BS Information Technology",
+
     techStack: {
         languages: ["JavaScript", "TypeScript", "Python", "Java", "C"],
         frontend: ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
@@ -36,19 +33,9 @@ const eliza = {
         design: ["Figma", "UI/UX Design", "Responsive Design"],
         tools: ["Git", "GitHub", "Vercel", "Netlify", "VS Code"]
     },
-    
-    recentProjects: [
-        "🛍️ Amari POS & Inventory System",
-        "✈️ Cebu-Bohol Educational Tour Journal",
-        "🧠 QuizWiz - Interactive Quiz App",
-        "✅ TaskMate - Collaborative Task Manager",
-        "🔒 Chrome Locker Browser Extension"
-    ],
-    
+  
     currentlyLearning: ["Advanced TypeScript", "System Design", "Cloud Technologies"],
     goals2026: ["Build production-ready applications", "Contribute to open source", "Land first dev role"],
-    
-    funFact: "I believe great code is like poetry - elegant, purposeful, and impactful! ✨",
     availability: "Open to work and collaboration! 💼"
 };
 ```
@@ -104,8 +91,8 @@ const eliza = {
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
 | 🌐 **[Portfolio Website](https://eliza-abing-port.vercel.app/)** | Personal portfolio showcasing projects & skills | Next.js, React, Tailwind CSS |
-| 🔧 **Web Applications** | Full-stack web apps with modern features | React, Node.js, PostgreSQL |
-| 📚 **Academic Projects** | University coursework & learning projects | Python, Java, JavaScript |
+| 🔧 **Amari POS with Inventory** | A modern e-commerce solution with seamless checkout and inventory management for a local shop. | Next.js, React, Tailwind CSS |
+| 🔒 **Chrome Locker Extension** | A privacy-focused browser extension that allows users to password-protect tabs. | HTML, CSS, JavaScript |
 
 </div>
 
@@ -121,7 +108,7 @@ const eliza = {
 
 <br/>
 
-### 💡 "Code is like humor. When you have to explain it, it's bad." — Cory House
+### 💡 "Why do when you can don't" — Eliza Abing, 2026
 
 </div>
 
@@ -130,11 +117,10 @@ const eliza = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+  <!-- Footer - Pink Gradient -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,50:ff69b4,100:ff1493&height=100&section=footer"/>
   
   <br/>
-  
-
   
   **💖 Thanks for visiting! Feel free to explore my repositories and reach out!**
   
