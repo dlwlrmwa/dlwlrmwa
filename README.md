@@ -17,29 +17,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
-## 👩‍💻 About Me
-
-```javascript
-const eliza = {
-    name: "Eliza Marie Abing",
-    location: "📍 Davao City, Philippines",
-    education: "🎓 BS Information Technology",
-
-    techStack: {
-        languages: ["JavaScript", "TypeScript", "Python", "Java", "C"],
-        frontend: ["React", "Next.js", "Tailwind CSS", "HTML5", "CSS3"],
-        backend: ["Node.js", "Supabase", "API Integration"],
-        databases: ["Supabase", "PostgreSQL", "MySQL"],
-        design: ["Figma", "UI/UX Design", "Responsive Design"],
-        tools: ["Git", "GitHub", "Vercel", "Netlify", "VS Code"]
-    },
-  
-    currentlyLearning: ["Advanced TypeScript", "System Design", "Cloud Technologies"],
-    goals2026: ["Build production-ready applications", "Contribute to open source", "Land first dev role"],
-    availability: "Open to work and collaboration! 💼"
-};
-```
-
 <br/>
 
 ## 🛠️ Tech Stack
