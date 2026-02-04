@@ -1,9 +1,5 @@
 # Eliza Abing
-
-**Software Engineer** | Web Developer | BSIT Student
-
-Building scalable web solutions with modern technologies. Focused on clean code, user experience, and continuous learning. Open to collaboration on full-stack projects and open-source contributions.
-
+A passionate BSIT student and creative developer from Philippines. I build efficient, user-centric digital solutions by blending modern full-stack development with thoughtful UI/UX design.
 ---
 
 ## Technical Skills
